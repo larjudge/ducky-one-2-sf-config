@@ -10,6 +10,7 @@ When using the built-in keyboard, I change the modfier keys to look like this:
 ![internal modifiers](img/internal_modifier.png)
 
 When using the Ducky One 2, I change the modifier keys to look like this:
+
 ![internal modifiers](img/ducky_modifier.png)
 
 Create plist file: `sudo code /Library/LaunchDaemons/dev.lar.ducky-one-2-sf-remap.plist`with the following contents:
