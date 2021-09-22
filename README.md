@@ -45,3 +45,6 @@ To get it to map each time you start you machine, do this:
 `sudo launchctl load -w /Library/LaunchDaemons/dev.lar.ducky-one-2-sf-remap.plist`
 
 `sudo launchctl list | grep dev.lar`
+
+## Reference
+https://developer.apple.com/library/archive/technotes/tn2450/_index.html#//apple_ref/doc/uid/DTS40017618-CH1-KEY_TABLE_USAGES
